@@ -1,3 +1,7 @@
+<img src="https://github.com/Jeremy-Mohammed/Introduction/blob/main/Images/Jeremy%20Mohammed.png"/>
+
+# Introduction
+
 
 # Highlighted Repositories
 
