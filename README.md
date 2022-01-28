@@ -4,6 +4,8 @@
 
 Hi I'm Jeremy. I'm a Computer Science student at Ontario Tech University who codes for work and for fun. The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
 
+https://www.linkedin.com/in/jeremy-mohammed/
+
 # Highlighted Repositories
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Food4Cause&theme=tokyonight&card_width=350"/>
