@@ -8,10 +8,18 @@ https://www.linkedin.com/in/jeremy-mohammed/
 
 # Highlighted Repositories
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Food4Cause&theme=tokyonight&card_width=330"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Website&theme=tokyonight&card_width=330"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Movie-Database&theme=tokyonight&card_width=330"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/>
+<img align="right" 
+     href= https://github.com/Jeremy-Mohammed/Website
+     src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Food4Cause&theme=tokyonight&card_width=330"/>
+<img align="center" 
+     href=
+     src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Website&theme=tokyonight&card_width=330"/>
+<img align="right" 
+     href=
+     src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Movie-Database&theme=tokyonight&card_width=330"/>
+<img align="center" 
+     href=
+     src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/>
 
 
 # GitHub Stats
