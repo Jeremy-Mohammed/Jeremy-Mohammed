@@ -14,10 +14,10 @@ https://www.linkedin.com/in/jeremy-mohammed/
      <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=WeatherComm&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Food4Cause">
-     <img align="right" 
+     <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Food4Cause&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Spam-Detection">
-     <img align="center" 
+     <img align="right" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Website">
      <img align="center"
