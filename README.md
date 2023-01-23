@@ -19,6 +19,9 @@ https://www.linkedin.com/in/jeremy-mohammed/
 <a href="https://github.com/Jeremy-Mohammed/Spam-Detection">
      <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/></a>
+<a href="https://github.com/Jeremy-Mohammed/WeatherComm">
+     <img align="center" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=WeatherComm&theme=tokyonight&card_width=330"/></a>
 
 
 # GitHub Stats
