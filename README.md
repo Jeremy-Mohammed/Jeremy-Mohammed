@@ -2,7 +2,7 @@
 
 # Introduction
 
-## The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
+The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
 
 https://www.linkedin.com/in/jeremy-mohammed/
 
