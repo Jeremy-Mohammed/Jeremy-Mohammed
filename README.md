@@ -1,4 +1,4 @@
-<img src="https://github.com/Jeremy-Mohammed/Introduction/blob/main/Images/Jeremy%20Mohammed.png"/>
+<img src="https://github.com/Jeremy-Mohammed/Introduction/blob/main/Images/JeremyMohammed.png"/>
 
 # Introduction
 
