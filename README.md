@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hi I'm Jeremy, a Computer Science student at Ontario Tech University who codes for work and fun. The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
+## The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
 
 https://www.linkedin.com/in/jeremy-mohammed/
 
