@@ -9,7 +9,7 @@
 <a href ="https://www.linkedin.com/in/jeremy-mohammed/">
      <img align="left"
           src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href ="jeremy_mohammed@outlook.com">
+<a href = mailto:jeremy_mohammed@outlook.com >
      <img align="left"
           src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href ="https://github.com/Jeremy-Mohammed">
