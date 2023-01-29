@@ -1,10 +1,14 @@
 <img src="https://github.com/Jeremy-Mohammed/Jeremy-Mohammed/blob/main/JeremyMohammed.png"/>
 
-# Introduction
+# Hi, I'm Jeremy!
 
-The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
+#### The idea of what computer science can be, the problems it can solve, and what it can create, drove me to pursue coding.
 
-https://www.linkedin.com/in/jeremy-mohammed/
+## Connect with me!
+
+## Languages and Tools!
+<a href ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <src = "https://www.linkedin.com/in/jeremy-mohammed/"/></a>
 
 # Highlighted Repositories
 <a href="https://github.com/Jeremy-Mohammed/Chat-Server">
