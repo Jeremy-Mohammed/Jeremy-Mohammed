@@ -14,7 +14,10 @@
           src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href ="https://github.com/Jeremy-Mohammed">
      <img align="left"
-          src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>      
+          src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href ="https://jeremymohammed.ca/">
+     <img align="left"
+          src = "https://img.shields.io/badge/Personal%20Website-333333?style=for-the-badge&logo=chipperci)"/></a>
 <br/><br/>
 
 ## Languages and Tools!
