@@ -74,6 +74,9 @@
 <a href="https://github.com/Jeremy-Mohammed/Website">
      <img align="center"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Website&theme=tokyonight&card_width=330"/></a>
+<a href="https://github.com/Jeremy-Mohammed/Movie-Database">
+     <img align="right"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Movie-Database&theme=tokyonight&card_width=330"/></a>
 
 
 # GitHub Stats
