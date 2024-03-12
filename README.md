@@ -62,21 +62,22 @@
 
 # Highlighted Repositories
 
+
+<a href="https://github.com/Jeremy-Mohammed/Wizardry-Academy">
+     <img align="center" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Wizardry-Academy&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Food4Cause">
      <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Food4Cause&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/WeatherComm">
      <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=WeatherComm&theme=tokyonight&card_width=330"/></a>
-<a href="https://github.com/Jeremy-Mohammed/Spam-Detection">
-     <img align="center" 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Chat-Server">
      <img align="center" 
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Chat-Server&theme=tokyonight&card_width=330"/></a>
-<a href="https://github.com/Jeremy-Mohammed/Movie-Database">
+<a href="https://github.com/Jeremy-Mohammed/Spam-Detection">
      <img align="center"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Movie-Database&theme=tokyonight&card_width=330"/></a>
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Spam-Detection&theme=tokyonight&card_width=330"/></a>
 <a href="https://github.com/Jeremy-Mohammed/Website">
      <img align="center"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Website&theme=tokyonight&card_width=330"/></a>
