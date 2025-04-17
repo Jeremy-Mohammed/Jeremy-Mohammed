@@ -81,9 +81,3 @@
 <a href="https://github.com/Jeremy-Mohammed/Website">
      <img align="center"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Mohammed&repo=Website&theme=tokyonight&card_width=330"/></a>
-
-<br>
-
-# GitHub Stats
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeremy-Mohammed&show_icons=true&theme=tokyonight&hide=prs&card_width=10"/></a>
