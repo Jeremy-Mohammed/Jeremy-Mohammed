@@ -1,4 +1,4 @@
-<img src="https://github.com/Jeremy-Mohammed/Jeremy-Mohammed/blob/main/JeremyMohammed.png"/>
+<img src="https://github.com/Jeremy-Mohammed/Jeremy-Mohammed/blob/main/Jeremy_Linkedin_Banner_1.png"/>
 
 # Hi, I'm Jeremy!
 
